@@ -1,8 +1,7 @@
 # Econlet_Rep
 
-Replication code for the disagreement index and the figures of the paper [Inflation target credibility in times of high inflation](https://doi.org/10.1016/j.econlet.2022.110930) by Winnie Coleman and Dieter Nautz
-
-Show more.
+Replication code for the disagreement index and the figures of the paper update, accompanying
+Coleman, W. and Nautz, D. (2023): "Inflation target credibility in times of high inflation", *Economics Letters* 222, 110930.
 
 ## Folder structure
 
@@ -40,3 +39,27 @@ Required R packages: tidyverse, openxlsx, plyr (only for `revalue`), zoo.
 ## Outputs
 
 `CI.eps`, `Answer_A_CPI.eps`, `Disagreement.eps`, `N_Answer.eps`, `N_Answer_Gender.eps`
+
+## Citation
+
+If you use this code or the data in your own work, please cite the paper:
+
+Coleman, Winnie, and Dieter Nautz. 2023. "Inflation Target Credibility in Times of High Inflation." *Economics Letters* 222: 110930. https://doi.org/10.1016/j.econlet.2022.110930
+
+```bibtex
+@article{coleman_nautz_2023,
+  author  = {Coleman, Winnie and Nautz, Dieter},
+  title   = {Inflation Target Credibility in Times of High Inflation},
+  journal = {Economics Letters},
+  year    = {2023},
+  volume  = {222},
+  pages   = {110930},
+  doi     = {10.1016/j.econlet.2022.110930}
+}
+```
+
+The survey data and the credibility indicator build on Coleman and Nautz (2023), "Inflation Expectations, Inflation Target Credibility, and the COVID-19 Pandemic: Evidence from Germany", *Journal of Money, Credit and Banking* 55(7): 1937-1953, https://doi.org/10.1111/jmcb.12998. Please cite it as well when you use the data.
+
+## Contact
+
+Winnie Coleman, winnie.coleman@fau.de
