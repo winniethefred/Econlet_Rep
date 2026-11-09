@@ -1,6 +1,8 @@
 # Econlet_Rep
 
-Replication code for the disagreement index and the figures of the paper update.
+Replication code for the disagreement index and the figures of the paper [Inflation target credibility in times of high inflation](https://doi.org/10.1016/j.econlet.2022.110930) by Winnie Coleman and Dieter Nautz
+
+Show more.
 
 ## Folder structure
 
